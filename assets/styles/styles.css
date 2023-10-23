@@ -73,13 +73,13 @@ main {
 /* x-sm */
 @media (width <=512px) {
     .InnoGrowth-Logo {
-        width: 240px;
+        width: 300px;
     }
 }
 
 /* sm */
 @media (512px < width <=640px) {
     .InnoGrowth-Logo {
-        width: 450px;
+        width: 350px;
     }
 }
